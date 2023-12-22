@@ -7,7 +7,6 @@ Usage:
     $python apriori.py -f DATASET.csv -s 0.15 -c 0.6
 """
 
-from apriori import runApriori, dataFromFile, to_str_results
 import pandas as pd
 import sys
 
